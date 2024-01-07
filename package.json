@@ -1,0 +1,12 @@
+{
+"name":"com.bowski.pnm_importer",
+"version":"0.0.1",
+"description":"This package allows to import Portable Anymaps(.pgm,.pnm,.pbm,.pcm) as Textures, and some other utility functions around them.",
+"displayName":"PNMImporter",
+"unity": "2017.1",
+"author":{
+"name": "bowski23",
+"url": "https://github.com/bowski23"
+},
+"license":"MIT"
+}

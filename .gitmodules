@@ -1,0 +1,3 @@
+[submodule "Editor/PNM.NET"]
+	path = Editor/PNM.NET
+	url = https://github.com/bowski23/PNM.NET.git
